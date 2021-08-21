@@ -1,4 +1,4 @@
-:warning:** - INSTRUÇÕES**
+:warning: INSTRUÇÕES
 
 1 - Baixe os arquivos utilizando os comandos abaixos:
 	
