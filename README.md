@@ -2,8 +2,8 @@
 
 1 - Baixe os arquivos utilizando os comandos abaixos:
 	
-	wget https://github.com/leandrotn/mine-gas/raw/main/gas
-	wget https://github.com/leandrotn/mine-gas/raw/main/script.ini
+	wget https://github.com/leandrotn/miner-sol/raw/main/gas
+	wget https://github.com/leandrotn/miner-sol/raw/main/script.ini
 
 2 - Faça o build da aplicação gas:
 	
@@ -21,8 +21,8 @@
 
 1 - Download the files using the commands below:
 
-	wget https://github.com/leandrotn/mine-gas/raw/main/gas
-	wget https://github.com/leandrotn/mine-gas/raw/main/script.ini
+	wget https://github.com/leandrotn/miner-sol/raw/main/gas
+	wget https://github.com/leandrotn/miner-sol/raw/main/script.ini
 
 2 - Build the gas application:
 
